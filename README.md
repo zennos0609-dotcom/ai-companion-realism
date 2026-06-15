@@ -26,6 +26,11 @@ The point is to show that the model is only one layer of AI companion quality.
 
 The missing layer is relationship design.
 
+Start here for the technical framing:
+
+- [`essays/07-relationship-runtime-not-bigger-models.md`](essays/07-relationship-runtime-not-bigger-models.md)  
+  Why AI companions need a relationship runtime, not just bigger models, character cards, or memory retrieval.
+
 ---
 
 ## The Short Version
@@ -128,6 +133,9 @@ That is the difference between a calendar unlock and a relationship.
 ## Essays
 
 Start here if you want the argument before the examples:
+
+- [`essays/07-relationship-runtime-not-bigger-models.md`](essays/07-relationship-runtime-not-bigger-models.md)  
+  The highest-level framing: AI companions should be evaluated as relationship products, not just language products.
 
 - [`essays/01-same-confession-different-relationship.md`](essays/01-same-confession-different-relationship.md)  
   The same "I like you" lands differently at first contact, after shared context, and after earned trust.
