@@ -2,9 +2,9 @@
 
 When people say AI companions have gotten worse, the first explanation is usually simple:
 
-> They switched to cheaper models.
+> They switched models.
 
-Sometimes that is true. Model quality matters. A weaker model can misunderstand context, flatten tone, repeat itself, or lose subtlety.
+Sometimes model choice is part of the story. Model quality matters. A weaker model can misunderstand context, flatten tone, repeat itself, or lose subtlety.
 
 But model downgrade is not the whole story.
 

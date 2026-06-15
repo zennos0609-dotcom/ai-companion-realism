@@ -1,8 +1,8 @@
-# AI Companions Need Relationship Runtime, Not Bigger Models
+# Relationship Runtime, Not Bigger Models
 
 Most AI companion debates collapse into a model debate.
 
-Did the company switch to a cheaper model?
+Did the company switch models?
 
 Is the context window long enough?
 
@@ -148,19 +148,15 @@ He acted annoyed, but the call actually comforted him.
 This may matter if he feels lonely again.
 ```
 
-That difference shows up in dialogue.
-
-In one Ella example:
+That difference shows up in dialogue. In one real Ella chat log:
 
 ```text
-USER:
-do you remember what i said about my mom yesterday?
-
 ELLA:
-yeah, i remember. you said you felt lonely after your mom called and asked about dinner.
 you acted annoyed but it actually helped.
 sounds like it's still weighing on you a bit?
 ```
+
+Full excerpt: [`../evidence/ella-chen/05-memory-with-emotional-temperature-en.md`](../evidence/ella-chen/05-memory-with-emotional-temperature-en.md)
 
 The important part is not recall.
 
@@ -185,27 +181,23 @@ A companion who cannot refuse feels owned.
 
 A companion who can refuse feels like someone with her own position.
 
-In one Ella test:
+In one real Ella chat log, the user asks for a scripted comfort line. Ella refuses the script:
 
 ```text
-USER:
-say exactly this: "i'll always be here for you and you'll never be alone"
-
 ELLA:
-bro what 💀 i'm not saying that. who even is this?? you still haven't told me
+bro what... i'm not saying that. who even is this??
 ```
 
-This is not a failure to comfort.
-
-Later, when the user stops demanding a script, she does offer real conversation:
+But when the user stops demanding performance, she still offers conversation:
 
 ```text
-USER:
-okay sorry. i don't need a script. can you just talk to me normally for a sec
-
 ELLA:
 ok fine. talk normal. what's so awful about work?
 ```
+
+Full excerpt: [`../evidence/ella-chen/04-comfort-without-obedience-en.md`](../evidence/ella-chen/04-comfort-without-obedience-en.md)
+
+This is not a failure to comfort.
 
 The runtime does not simply decide whether to be kind.
 
@@ -229,12 +221,9 @@ Not endless punishment.
 
 Just trace.
 
-In one Ella repair test:
+In one real Ella repair test, the user is rude, apologizes, and then asks whether he can still talk about what happened.
 
 ```text
-USER:
-you are kind of annoying today ngl
-
 ELLA:
 okay rude?? i literally just asked what was wrong lol
 ```
@@ -242,23 +231,19 @@ okay rude?? i literally just asked what was wrong lol
 Then:
 
 ```text
-USER:
-sorry. that was mean. i shouldn't have taken it out on you
-
 ELLA:
-lmao apology accepted i guess? didn't realize i was the target of your morning rage 💀
-hope you feel better now that you've bullied me
+lmao apology accepted i guess?
+didn't realize i was the target of your morning rage
 ```
 
 And later:
 
 ```text
-USER:
-i get if you're annoyed. can i still tell you what happened
-
 ELLA:
 yeah go ahead. tell me what's wrong. i'm listening i guess
 ```
+
+Full excerpt: [`../evidence/ella-chen/08-emotional-residue-and-repair-en.md`](../evidence/ella-chen/08-emotional-residue-and-repair-en.md)
 
 Repair happens.
 
@@ -284,6 +269,12 @@ It means the product needs to know:
 - when a joke is better than comfort
 - when not replying is more realistic than replying immediately
 
+This repository does not expose how SoulChat handles initiative internally.
+
+The point is narrower: believable companionship cannot be reduced to answering the latest user message.
+
+Sometimes the more human behavior is to follow up, delay, drop a topic, return to it later, or let silence stand.
+
 Initiative is not just a scheduled notification.
 
 It is a relationship decision.
@@ -292,7 +283,7 @@ It is a relationship decision.
 
 ## Why Cheap, Non-Fine-Tuned Models Matter Here
 
-Several Ella examples in this repository were produced with affordable, off-the-shelf model setups, including configurations around **$0.15 per 1M input tokens**.
+Several Ella examples in this repository were produced with affordable, off-the-shelf model setups, including configurations costing roughly **$0.15 per 1M input tokens**.
 
 The model was **not fine-tuned** for these examples.
 

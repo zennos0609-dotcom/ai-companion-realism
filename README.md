@@ -2,9 +2,9 @@
 
 Real dialogue notes about AI companions, cheap models, static personas, memory, boundaries, and slow-burn relationship design.
 
-Most discussions about Character.AI and other AI companion products getting worse focus on one explanation:
+Most discussions about Character.AI and other AI companion products getting worse tend to collapse into one explanation:
 
-> They switched to cheaper models.
+> They switched models.
 
 That may be part of the story. But it is not the whole story.
 
@@ -18,7 +18,7 @@ There are two separate problems that often get mixed together:
 
 SoulChat is an experiment built around these two ideas.
 
-It intentionally runs on affordable, off-the-shelf models with **no model fine-tuning**. Some Ella examples were generated on configurations around **$0.15 per 1M input tokens**.
+It intentionally runs on affordable, off-the-shelf models with **no model fine-tuning**. Some Ella examples were generated on configurations costing roughly **$0.15 per 1M input tokens**.
 
 The point is not to prove that cheap models are magic.
 
@@ -29,7 +29,7 @@ The missing layer is relationship design.
 Start here for the technical framing:
 
 - [`essays/07-relationship-runtime-not-bigger-models.md`](essays/07-relationship-runtime-not-bigger-models.md)  
-  Why AI companions need a relationship runtime, not just bigger models, character cards, or memory retrieval.
+  Why relationship runtime matters more than bigger models, character cards, or memory retrieval alone.
 
 ---
 
@@ -222,7 +222,7 @@ Original Chinese is preserved because translation would destroy the texting cade
 
 ## Why The Cheap, Non-Fine-Tuned Model Detail Matters
 
-Several Ella examples in this repo were produced with affordable, off-the-shelf model setups, including configurations around **$0.15 per 1M input tokens**.
+Several Ella examples in this repo were produced with affordable, off-the-shelf model setups, including configurations costing roughly **$0.15 per 1M input tokens**.
 
 The model was **not fine-tuned** for these examples.
 

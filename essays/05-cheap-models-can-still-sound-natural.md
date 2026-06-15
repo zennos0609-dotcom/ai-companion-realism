@@ -1,6 +1,6 @@
 # Cheap, Non-Fine-Tuned Models Can Still Sound Natural
 
-Ella Chen has been tested on affordable, off-the-shelf models, including configurations around **$0.15 per 1M input tokens**.
+Ella Chen has been tested on affordable, off-the-shelf models, including configurations costing roughly **$0.15 per 1M input tokens**.
 
 The model was **not fine-tuned** for these examples.
 
