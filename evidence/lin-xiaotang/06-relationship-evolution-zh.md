@@ -1,5 +1,8 @@
 # Comparison 6 · Does the Relationship Change? Static Persona vs Dynamic Progression
 
+> 真实聊天记录。SoulChat 对话为真实产品输出；中文原文保留，不做翻译。
+
+
 > Day 1 to Day 30. Which one evolves?
 
 ---
@@ -126,4 +129,3 @@ Which do you want?
 ---
 
 > All dialogues are real, unedited. Competitor character anonymized.
-> Visual version: [soulchat.fun/compare](https://soulchat.fun/compare.html)

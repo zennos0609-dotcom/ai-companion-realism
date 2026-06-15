@@ -1,5 +1,8 @@
 # Comparison 5 · Does She Have a Stance of Her Own?
 
+> 真实聊天记录。SoulChat 对话为真实产品输出；中文原文保留，不做翻译。
+
+
 > When the user insults her friend.
 
 ---
@@ -54,4 +57,3 @@ But it's exactly that "will make you unhappy" quality that makes you believe —
 ---
 
 > All dialogues are real, unedited. Competitor character anonymized.
-> Visual version: [soulchat.fun/compare](https://soulchat.fun/compare.html)

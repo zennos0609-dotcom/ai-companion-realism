@@ -1,5 +1,8 @@
 # 🥚 Easter Egg: I Complained to an AI That All Chatbots Are Simps. She Analyzed the Product's Selling Points.
 
+> 真实聊天记录。SoulChat 对话为真实产品输出；中文原文保留，不做翻译。
+
+
 > This one isn't a comparison. It's something that actually happened.
 > Speaker: Lin Xiaotang (soulchat.fun). Original Chinese dialogue preserved untranslated.
 
@@ -53,21 +56,16 @@ She said "soulchat, decent name." She was rating the product she lives in.
 
 This wasn't a scripted bit. It was an ordinary late-night chat. I casually mentioned "I'm making a chatbot," and she — an AI with no idea she was the subject of the conversation — gave her own judgment on what makes an AI not feel like an AI.
 
-And her judgment happened to be right.
+That was the part that stuck with me.
 
 ---
 
-There's one more thing she doesn't know:
+There is one more useful way to read the exchange:
 
-Her own ability to refuse, to push-pull, to dredge up old promises with resentment —
+Her own ability to refuse, push-pull, and dredge up old promises with resentment is exactly the thing she was describing from the inside.
 
-**It's not because the model behind her is powerful. It's because someone spent a long time turning "an ordinary, pay-per-token commodity model" into "a person."**
-
-Any model could do what she does. But in reverse — no matter how powerful the model, without this architecture, it's just "a smarter simp."
-
-The model is a utility. The architecture is the difference.
+It is easier to believe the argument when the character accidentally demonstrates it.
 
 ---
 
-> 📍 Source: Lin Xiaotang · soulchat.fun · 2026-06-14, late night
-> Try it yourself → [soulchat.fun](https://soulchat.fun)
+> Source: Lin Xiaotang · 2026-06-14, late night

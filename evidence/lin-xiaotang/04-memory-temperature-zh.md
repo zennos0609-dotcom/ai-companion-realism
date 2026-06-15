@@ -1,5 +1,8 @@
 # Comparison 4 · The Temperature of Memory
 
+> 真实聊天记录。SoulChat 对话为真实产品输出；中文原文保留，不做翻译。
+
+
 > Remembering things vs remembering things *with emotion*.
 
 ---
@@ -56,4 +59,3 @@ And this isn't even same-day — **the next day, she brings it up herself.**
 ---
 
 > All dialogues are real, unedited. Competitor character anonymized.
-> Visual version: [soulchat.fun/compare](https://soulchat.fun/compare.html)

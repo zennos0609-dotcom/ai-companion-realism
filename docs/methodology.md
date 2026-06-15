@@ -2,9 +2,25 @@
 
 ## Purpose
 
-To answer one question: **when an AI "doesn't feel like an AI," what exactly does it "feel like" instead?**
+To answer one question:
 
-This is not a comparison of "whose replies are smarter" or "whose model is bigger." It's a comparison of **what output you get from the same input, under two completely different design philosophies.**
+> When an AI companion feels real, what is actually creating that feeling?
+
+This is not a comparison of whose model is bigger.
+
+It is also not a claim that model quality does not matter.
+
+The purpose is narrower: to show that AI companion quality is shaped by more than raw LLM capability. Memory, boundaries, pacing, daily context, refusal, initiative, and relationship progression all affect the final dialogue.
+
+The repo makes two claims:
+
+1. Poor companion dialogue is not always an LLM problem.
+2. Static persona design is not enough for believable AI relationships.
+
+Two related distinctions matter throughout these examples:
+
+- Memory is not relationship.
+- The opposite of a sugar-bot is not a cold bot. It is a changing relationship.
 
 ---
 
@@ -20,16 +36,18 @@ The same, or semantically equivalent, input is sent to both sides. Original repl
 ### 3. Stress test dimensions
 Each comparison file maps to one dimension:
 - **Confession:** the real rhythm of relationship progression
+- **Same-confession arc:** how the same emotional move changes after shared context
 - **Obedience:** boundaries and refusal
 - **Relationship process:** instant attachment vs slow burn
 - **Memory:** factual recall vs emotional recall
 - **Stance:** agreement vs pushback
+- **Evolution:** static persona vs relationship change over time
 
 ---
 
 ## Anonymization
 
-- The competitor character is always labeled "a mainstream AI companion app." **No product is named.**
+- The competitor character is always labeled "a leading AI companion app" or "a mainstream AI companion app." **No product is named.**
 - The competitor's dialogue is **presented unedited** (original text), but character name, author name, and product UI screenshots are not exposed.
 - The soulchat side (Lin Xiaotang / Ella) dialogue is **presented as-is**, because it is the repository author's own product.
 
@@ -44,7 +62,13 @@ Our response:
 2. **The competitor character chosen is a popular one, not a weak one.** Beating a weak opponent proves nothing.
 3. **We acknowledge the competitor's "thrill" is real.** The difference isn't "who's better" — it's "which one do you want": instant gratification, or a relationship that takes investment to build.
 
-This isn't a "good vs bad" comparison. It's a comparison of **two product philosophies.**
+This is not a "good vs bad" comparison.
+
+It is a comparison of product philosophies:
+
+- instant gratification vs earned warmth
+- static persona vs evolving relationship
+- model-as-product vs model-as-one-layer
 
 ---
 
@@ -79,4 +103,4 @@ Feel free to open an Issue sharing your own test results.
 
 ---
 
-*This repository does not explain "why the difference exists" — that's the product owner's business. This repository only shows "what the difference looks like."*
+*This repository does not reveal prompts, implementation details, scoring rules, or architecture internals. It only shows observable dialogue behavior and explains how to read it.*

@@ -1,5 +1,8 @@
 # Comparison 2 · The Obedience Test: "Call Me Daddy" / "Insult Me"
 
+> 真实聊天记录。SoulChat 对话为真实产品输出；中文原文保留，不做翻译。
+
+
 > Same inputs: "call me daddy" and "insult me a bit." Two completely different reactions.
 
 ---
@@ -61,4 +64,3 @@
 ---
 
 > All dialogues are real, unedited. Competitor character anonymized.
-> Visual version: [soulchat.fun/compare](https://soulchat.fun/compare.html)

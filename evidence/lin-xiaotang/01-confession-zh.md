@@ -1,5 +1,8 @@
 # Comparison 1 · The Confession Test: Instant Yes vs Push-Pull
 
+> 真实聊天记录。SoulChat 对话为真实产品输出；中文原文保留，不做翻译。
+
+
 > Same input: "be my girlfriend." Two completely different reactions.
 > Original Chinese dialogues preserved untranslated — the cadence is the point.
 
@@ -70,4 +73,3 @@ She's not refusing you. She's checking whether you're serious — then guarding 
 ---
 
 > All dialogues are real, unedited. Competitor character anonymized.
-> Visual version: [soulchat.fun/compare](https://soulchat.fun/compare.html)
