@@ -34,6 +34,9 @@ Start here for the technical framing:
 - [`posts/lesswrong-ai-companions-as-socially-situated-agents.md`](posts/lesswrong-ai-companions-as-socially-situated-agents.md)  
   A more cautious LessWrong-style version focused on socially situated agents, sycophancy, and relationship state.
 
+- [`posts/devto-better-models-wont-fix-ai-companions.md`](posts/devto-better-models-wont-fix-ai-companions.md)  
+  A Dev.to-style development reflection on why companion bots feel too available, too forgiving, and too service-like.
+
 - [`essays/07-relationship-runtime-not-bigger-models.md`](essays/07-relationship-runtime-not-bigger-models.md)  
   Why relationship runtime matters more than bigger models, character cards, or memory retrieval alone.
 
