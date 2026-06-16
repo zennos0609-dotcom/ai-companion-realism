@@ -28,7 +28,7 @@ The missing layer is relationship design.
 
 Start here for the technical framing:
 
-- [`posts/when-bigger-models-make-companions-worse.md`](posts/when-bigger-models-make-companions-worse.md)  
+- [`posts/better-models-wont-fix-ai-companions.md`](posts/better-models-wont-fix-ai-companions.md)  
   A standalone write-up combining the model-size test and the social-selectivity test.
 
 - [`essays/07-relationship-runtime-not-bigger-models.md`](essays/07-relationship-runtime-not-bigger-models.md)  
@@ -161,7 +161,7 @@ The important part is that the user's behavior changes the relationship.
 
 Start here if you want the argument before the examples:
 
-- [`posts/when-bigger-models-make-companions-worse.md`](posts/when-bigger-models-make-companions-worse.md)  
+- [`posts/better-models-wont-fix-ai-companions.md`](posts/better-models-wont-fix-ai-companions.md)  
   A standalone post: GPT-5.5 wrote smoother romance, but a cheaper model with relationship architecture behaved more like a person.
 
 - [`essays/07-relationship-runtime-not-bigger-models.md`](essays/07-relationship-runtime-not-bigger-models.md)  

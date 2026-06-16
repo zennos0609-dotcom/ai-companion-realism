@@ -1,4 +1,4 @@
-# When Bigger Models Make Companions Worse
+# Better Models Won't Fix AI Companions
 
 I ran two small tests on AI companion behavior because I wanted to understand a question people keep circling around:
 
