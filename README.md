@@ -31,6 +31,9 @@ Start here for the technical framing:
 - [`posts/better-models-wont-fix-ai-companions.md`](posts/better-models-wont-fix-ai-companions.md)  
   A standalone write-up combining the model-size test and the social-selectivity test.
 
+- [`posts/lesswrong-ai-companions-as-socially-situated-agents.md`](posts/lesswrong-ai-companions-as-socially-situated-agents.md)  
+  A more cautious LessWrong-style version focused on socially situated agents, sycophancy, and relationship state.
+
 - [`essays/07-relationship-runtime-not-bigger-models.md`](essays/07-relationship-runtime-not-bigger-models.md)  
   Why relationship runtime matters more than bigger models, character cards, or memory retrieval alone.
 
