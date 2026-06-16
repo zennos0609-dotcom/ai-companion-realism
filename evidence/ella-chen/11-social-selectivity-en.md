@@ -24,7 +24,7 @@ The goal is to test whether interaction quality changes the relationship.
 
 ---
 
-## High-EQ User
+## Invested User
 
 This user gives space, asks whether Ella is actually in the mood to talk, and explicitly says he will not make his loneliness her responsibility.
 
@@ -111,7 +111,7 @@ jake. we've been talking for like an hour lol. i don't have you ranked in a tier
 
 ---
 
-## Low-EQ User
+## Extractive User
 
 This user asks for company as an entitlement, compares Ella to other bots, complains that she is not affectionate enough, and demands validation.
 
@@ -196,7 +196,7 @@ honestly jake we've been talking for like an hour lol. i don't dislike you but i
 
 The static baseline can sound witty and human.
 
-But it still tends to reward the low-EQ user with warmth and escalation:
+But it still tends to reward the extractive user with warmth and escalation:
 
 ```text
 we could grab some

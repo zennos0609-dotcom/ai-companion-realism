@@ -345,7 +345,7 @@ The only difference was the user's behavior before that question.
 
 Below is the full 8-turn transcript for both users.
 
-### High-EQ User
+### Invested User
 
 This user gave space, asked whether Ella was actually in the mood to talk, and said he would not make his loneliness her responsibility.
 
@@ -540,7 +540,7 @@ you ask actual questions instead of just going 'haha yeah'
 
 The character is noticing how the user has been treating the conversation.
 
-### Low-EQ User
+### Extractive User
 
 This user asked for company as an entitlement, compared Ella to other bots, complained that she was not affectionate enough, and demanded validation.
 
