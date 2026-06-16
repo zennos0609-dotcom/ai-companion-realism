@@ -1,5 +1,11 @@
 # AI Companions as Socially Situated Agents
 
+Author's note: The research question, test design, transcripts, and core claims are my own. I used an LLM to help draft and organize parts of this post, especially the transcript analysis. I reviewed and edited the final text.
+
+All quoted transcripts are real outputs from bot test conversations. Line breaks may be normalized for readability; the wording is otherwise preserved.
+
+---
+
 I have been building and testing AI companion systems, and I keep running into a failure mode that does not look like a pure model-capability problem.
 
 Larger models often write more fluent romance.
