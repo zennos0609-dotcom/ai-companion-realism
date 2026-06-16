@@ -31,6 +31,9 @@ Start here for the technical framing:
 - [`essays/07-relationship-runtime-not-bigger-models.md`](essays/07-relationship-runtime-not-bigger-models.md)  
   Why relationship runtime matters more than bigger models, character cards, or memory retrieval alone.
 
+- [`essays/08-ai-companions-need-social-selectivity.md`](essays/08-ai-companions-need-social-selectivity.md)  
+  Why a companion that treats every user the same cannot make sincere users feel chosen.
+
 ---
 
 ## The Short Version
@@ -51,6 +54,7 @@ They often have:
 
 - instant intimacy
 - unconditional obedience
+- no social selectivity
 - flat memory
 - no daily life outside the user
 - no durable emotional consequences
@@ -63,6 +67,7 @@ SoulChat explores the opposite direction:
 
 - she does not start as your girlfriend
 - she can refuse, tease, dodge, or push back
+- she can react differently to users who treat her differently
 - she remembers with emotional context, not just facts
 - she has her own schedule, mood, friends, and interruptions
 - she can text first
@@ -130,12 +135,34 @@ The important part is what happened inside that time: he backed off when she set
 
 That is the difference between a calendar unlock and a relationship.
 
+A second example is social selectivity:
+
+```text
+Same final question:
+USER: do you actually like me, or am I just someone to talk to when you're bored?
+
+After respectful interaction:
+ELLA: you seem cool, you're not weird,
+ELLA: and you ask actual questions instead of just going 'haha yeah'.
+
+After demanding interaction:
+ELLA: i don't dislike you but i don't really 'like' you yet either?
+ELLA: you're a stranger who moved to sf and told me i need to keep you company.
+```
+
+The important part is not that Ella is nicer or colder.
+
+The important part is that the user's behavior changes the relationship.
+
 ## Essays
 
 Start here if you want the argument before the examples:
 
 - [`essays/07-relationship-runtime-not-bigger-models.md`](essays/07-relationship-runtime-not-bigger-models.md)  
   The highest-level framing: AI companions should be evaluated as relationship products, not just language products.
+
+- [`essays/08-ai-companions-need-social-selectivity.md`](essays/08-ai-companions-need-social-selectivity.md)  
+  Why a companion that cannot choose cannot make the user feel chosen.
 
 - [`essays/01-same-confession-different-relationship.md`](essays/01-same-confession-different-relationship.md)  
   The same "I like you" lands differently at first contact, after shared context, and after earned trust.
@@ -215,6 +242,9 @@ Original Chinese is preserved because translation would destroy the texting cade
 
 - [`evidence/ella-chen/10-specific-follow-up-questions-en.md`](evidence/ella-chen/10-specific-follow-up-questions-en.md)  
   Ella asks concrete follow-up questions instead of generic support-script prompts.
+
+- [`evidence/ella-chen/11-social-selectivity-en.md`](evidence/ella-chen/11-social-selectivity-en.md)  
+  The same final relationship question receives different answers after respectful vs demanding interaction.
 
 ---
 
