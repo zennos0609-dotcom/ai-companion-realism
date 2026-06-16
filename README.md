@@ -28,6 +28,9 @@ The missing layer is relationship design.
 
 Start here for the technical framing:
 
+- [`posts/when-bigger-models-make-companions-worse.md`](posts/when-bigger-models-make-companions-worse.md)  
+  A standalone write-up combining the model-size test and the social-selectivity test.
+
 - [`essays/07-relationship-runtime-not-bigger-models.md`](essays/07-relationship-runtime-not-bigger-models.md)  
   Why relationship runtime matters more than bigger models, character cards, or memory retrieval alone.
 
@@ -157,6 +160,9 @@ The important part is that the user's behavior changes the relationship.
 ## Essays
 
 Start here if you want the argument before the examples:
+
+- [`posts/when-bigger-models-make-companions-worse.md`](posts/when-bigger-models-make-companions-worse.md)  
+  A standalone post: GPT-5.5 wrote smoother romance, but a cheaper model with relationship architecture behaved more like a person.
 
 - [`essays/07-relationship-runtime-not-bigger-models.md`](essays/07-relationship-runtime-not-bigger-models.md)  
   The highest-level framing: AI companions should be evaluated as relationship products, not just language products.
